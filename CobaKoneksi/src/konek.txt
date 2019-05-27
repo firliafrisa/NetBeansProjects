@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost/db_tokoif17fx
+db.user=root
+db.password=
